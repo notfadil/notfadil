@@ -15,10 +15,6 @@ My interests span across **Large Language Models, Data Orchestration, Data Visua
 
 ---
 
-## ✉️ Connect With Me  
-- 🔗 **LinkedIn:** [fadilmeraj](https://www.linkedin.com/in/fadilmeraj/)  
-
----
 
 ## ⏳ Beyond Data  
 When I’m not immersed in machine learning and data analytics, I enjoy:  
