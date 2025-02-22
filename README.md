@@ -11,7 +11,7 @@ My interests span across **Large Language Models, Data Orchestration, Data Visua
 
 ## ⚡ What I’m Working On  
 - ✦ Conducting research on **DeepSeek models** for language translation and benchmarking them against **LLaMA/OpenAI** models.  
-- ✦ Building and automating workflows with **Apache Airflow and cloud-based solutions**.  
+- ✦ Building a **Llama-based Sales Chatbot** 
 
 ---
 
@@ -19,7 +19,7 @@ My interests span across **Large Language Models, Data Orchestration, Data Visua
 ## ⏳ Beyond Data  
 When I’m not immersed in machine learning and data analytics, I enjoy:  
 - ► Training and watching **combat sports**  (Fun Fact: I have learned 4 different martial arts! )
-- ► Playing **badminton**  
-- ► Keeping up with the latest in **football (soccer)**  
+- ► Playing **badminton** and **football**  
+- ► I also like to learn about **Geography** in my free time
 
 I'm always open to discussions, new ideas, and collaborations. Thanks for stopping by!
