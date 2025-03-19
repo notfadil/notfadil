@@ -10,8 +10,7 @@ My interests span across **Large Language Models, Data Orchestration, Data Visua
 ---
 
 ## ⚡ What I’m Working On  
-- ✦ Conducting research on **DeepSeek models** for language translation and benchmarking them against **LLaMA/OpenAI** models.  
-- ✦ Building a **Llama-based Sales Chatbot** 
+- ✦ Conducting research on **DeepSeek models** for language translation and benchmarking them against **LLaMA/OpenAI** models. 
 
 ---
 
