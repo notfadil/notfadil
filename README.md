@@ -3,7 +3,7 @@
 ## ➤ About Me  
 I'm a **Recent Graduate** from the **University of Waterloo**, deeply fascinated by **data** in all its forms—whether in **Finance, Energy**, or even **Business**.  
 
-I am currently a **Data Consultant Intern at Vosyn Inc.**, an AI startup working on **real-time video-to-video translation**. Previously, I was a **Software Engineer at HP Inc.**, and I’m always looking for ways to apply **data-driven insights** to solve real-world problems.  
+I am currently a **Data Engineer at Unilever**. Previously, I was a **Software Engineer at HP Inc.**, and I’m always looking for ways to apply **data-driven insights** to solve real-world problems.  
 
 My interests span across **Large Language Models, Data Orchestration, Data Visualization, Financial Modeling, and even Geography**. If there’s a story hidden in data, I want to uncover it.  
 
